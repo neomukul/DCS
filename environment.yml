@@ -1,0 +1,21 @@
+name: DCS
+channels:
+  - defaults
+dependencies:
+  - pip=20.3
+  - python=3.8.5
+  - flask=1.1.2
+  - jinja2
+  
+  - pip:
+    - numpy	
+    - pandas
+    - flask
+    - escape
+    - os
+    - random
+    
+
+    
+prefix: /home/neo/DCS
+
